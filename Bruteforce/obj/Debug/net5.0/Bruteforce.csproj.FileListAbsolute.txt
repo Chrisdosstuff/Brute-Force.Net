@@ -1,0 +1,16 @@
+C:\Users\chris\source\repos\Bruteforce\bin\Debug\net5.0\Bruteforce.exe
+C:\Users\chris\source\repos\Bruteforce\bin\Debug\net5.0\Bruteforce.deps.json
+C:\Users\chris\source\repos\Bruteforce\bin\Debug\net5.0\Bruteforce.runtimeconfig.json
+C:\Users\chris\source\repos\Bruteforce\bin\Debug\net5.0\Bruteforce.runtimeconfig.dev.json
+C:\Users\chris\source\repos\Bruteforce\bin\Debug\net5.0\Bruteforce.dll
+C:\Users\chris\source\repos\Bruteforce\bin\Debug\net5.0\ref\Bruteforce.dll
+C:\Users\chris\source\repos\Bruteforce\bin\Debug\net5.0\Bruteforce.pdb
+C:\Users\chris\source\repos\Bruteforce\obj\Debug\net5.0\Bruteforce.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Bruteforce\obj\Debug\net5.0\Bruteforce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\Bruteforce\obj\Debug\net5.0\Bruteforce.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Bruteforce\obj\Debug\net5.0\Bruteforce.AssemblyInfo.cs
+C:\Users\chris\source\repos\Bruteforce\obj\Debug\net5.0\Bruteforce.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Bruteforce\obj\Debug\net5.0\Bruteforce.dll
+C:\Users\chris\source\repos\Bruteforce\obj\Debug\net5.0\ref\Bruteforce.dll
+C:\Users\chris\source\repos\Bruteforce\obj\Debug\net5.0\Bruteforce.pdb
+C:\Users\chris\source\repos\Bruteforce\obj\Debug\net5.0\Bruteforce.genruntimeconfig.cache
